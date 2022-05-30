@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pizza fatta in casa!</title>
+    </head>
+    <body>
+      
+        <img src="https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" width="500"> 
+        <h2>Scelta degli ingredienti di prima qualità:</h3>
+        <p>
+            Scelta degli ingredienti di prima qualità: qualunque condimento decidiate di utilizzare,
+             a meno che non si tratti di una pizza base bianca, vi consiglio di usare i pomodori pelati,
+            evitate la passata di pomodoro perché eccessivamente densa e pastosa! Per la pizza ci vogliono i pelati.
+            quelli che preferisco sono i pelati mutti  ma vanno bene anche Cirio, Agromote.
+            Al posto della mozzarella potete utilizzare Fior di latte. Evitate la bufala 
+            se non avete scelto un condimento crudo, perchè tira fuori troppa acqua in cottura!
+        </p>
+
+        <h3>Lista ingredienti</h3>
+        <ul>
+            <li><a href="https://it.wikipedia.org/wiki/Farina_manitoba" target="_blank">Farina Manitoba</a></li>
+            <li><a href="https://it.wikipedia.org/wiki/Acqua#:~:text=L'acqua%20%C3%A8%20una%20delle,(373%2C15%20K)." target="_blank">Acqua</a></li>
+            <li><a href="https://it.wikipedia.org/wiki/Lievito" target="_blank">Lievito</a></li>
+            <li><a href="https://it.wikipedia.org/wiki/Farina" target="_blank">Farina</a></li>
+            <li><a href="https://it.wikipedia.org/wiki/Sale" target="_blank">Sale</a></li>
+        </ul>
+
+        <h3>Procedimenti</h3>
+        <p>
+            La pizza è un prodotto gastronomico salato 
+            che consiste in un impasto a base di farina,
+             acqua e lievito che viene spianato e condito 
+             tipicamente con pomodoro, mozzarella e altri ingredienti
+             e cotto in un forno a legna. 
+            
+        </p>
+        <ul>
+        <li><a href="https://ricette.giallozafferano.it/Pizza-Margherita.html" target="_blank">Consulta l'intera ricetta!</a></li>
+        </ul>
+
+        <h3>La Tabella Nutrizionale</h3>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th><strong>Valori Nutrizionali</strong></th>
+                    <th><strong>per 100 gr di Prodotto</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Energia</td>
+                    <td>1.444 kj (250 kcal)</td>
+                </tr>
+                <tr>
+                    <td>Grassi</td>
+                    <td>2.2 gr</td>
+                </tr>
+                <tr>
+                    <td>Carboidrati</td>
+                    <td>60 gr</td>
+                </tr>
+                <tr>
+                    <td>Zuccheri</td>
+                    <td>5.7 gr</td>
+                </tr>
+                <tr>
+                    <td>Fibra Alimentare</td>
+                    <td>1.9 gr</td>
+                </tr>
+                <tr>
+                    <td>Proteine</td>
+                    <td>15 gr</td>
+                </tr>
+                <tr>
+                    <td>Sale</td>
+                    <td>1.7 gr</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </body>
+</html>
